@@ -5,7 +5,8 @@
 //  Created by wanglidong on 13-4-23.
 //  Copyright (c) 2013年 ksyun. All rights reserved.
 //
-//  动画控制类，默认动画播放时间为系统动画时间。
+//  en animation utils, default use system animation duration
+//  cn 动画控制类，默认动画播放时间为系统动画时间。
 
 #import <UIKit/UIKit.h>
 
